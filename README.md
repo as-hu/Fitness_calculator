@@ -1,2 +1,2 @@
 # Fitness_calculator
-Desktop application using python.
+Desktop application of a Fitness Calculator using python.
